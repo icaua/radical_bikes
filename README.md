@@ -1,11 +1,13 @@
 ![GitHub](https://img.shields.io/github/license/icaua/agenda?style=plastic)
 # Radical Bikes
-Simples sistena para a gestão de comercio de bens e serviços 
+sistena para a gestão de comercio de bens e serviços 
+
+![tela principal do projeto](https://github.com/icaua/radical_bikes/blob/main/img/principal.PNG)
 
 ## autor 
 Isaac Caua Mourao Da Silva
 
-## Instalação da agenda
+## Instalação do Projeto
 
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local
 
@@ -19,6 +21,6 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 ## Instalação:
 
 * Execute o XAAMP e acesse a administração do mySQL(phpmyadmin)
-* Crie um novo banco de dados de nome dbagenda
-* Faça a importação do arquivo constatos.sql para o XAAMP
+* Crie um novo banco de dados de nome dbradicalmotos
+* Faça a importação do arquivo radical_bikes.sql para o XAAMP
 * Em "Releases" Faça o download da agenda(jar) e execute o arquivo
