@@ -16,7 +16,7 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 É necessário ter instalado no computador:
 
 * Java JDK 17 ou superior
-  ![https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg)
+  ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg)
 * XAMPP
 
 ## Instalação:
