@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/icaua/agenda?style=plastic)
 # Radical Bikes
-sistena para a gestão de comercio de bens e serviços 
+sistema para a gestão de comercio de bens e serviços 
 
 ![tela principal do projeto](https://github.com/icaua/radical_bikes/blob/main/img/principal.PNG)
 
