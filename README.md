@@ -18,6 +18,7 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 * Java JDK 17 ou superior
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt= “” width="40" height="40">
 * XAMPP
+  <img src="https://github.com/icaua/radical_bikes/blob/main/img/96018_xampp_icon.png" alt= “” width="40" height="40">
 
 ## Instalação:
 
