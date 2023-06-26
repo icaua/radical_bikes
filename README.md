@@ -23,5 +23,7 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 
 * Execute o XAAMP e acesse a administração do mySQL(phpmyadmin)
 * Crie um novo banco de dados de nome dbradicalmotos
-* Faça a importação do arquivo radical_bikes.sql para o XAAMP
+* Faça a importação do arquivo [radical_bikes.sql](https://github.com/icaua/radical_bikes/blob/main/radical_bikes.sql) para o XAAMP
 * Em "Releases" Faça o download da agenda(jar) e execute o arquivo
+* após realizar a importação do arquivo radical_bikes.sql ele ja cria o usuario "admin" com a senha "admin"
+* baixar a versão mais atual em [releases](https://github.com/icaua/radical_bikes/releases/download/radicalbikes1.0/radicalbikes.jar)
