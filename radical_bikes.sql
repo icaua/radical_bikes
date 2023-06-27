@@ -4,8 +4,6 @@
  * @author Isaac Caua Mourão Da Silva
  */
 
-
-create database dbradicalmotos;
 use dbradicalmotos;
 
 create table usuarios (
